@@ -45,7 +45,7 @@ Como futuro engenheiro de software, o aprendizado contínuo faz parte da minha r
 Gostou do meu perfil? Vamos conversar, fazer networking e trocar experiências sobre engenharia e backend!
 
 [![LinkedIn](https://shields.io)](www.linkedin.com/in/eduardo-duarte-885526277)
-[![Instagram](https://shields.io)](https://instagram.com/@eduardo.dduarte)
+[![Instagram](https://shields.io)](https://www.instagram.com/eduardo.dduarte/)
 
 <!--
 **EduDuarte1/EduDUarte1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
