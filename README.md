@@ -34,7 +34,7 @@ Aqui estão as principais tecnologias que utilizo nos meus projetos e estudos:
 Como futuro engenheiro de software, o aprendizado contínuo faz parte da minha rotina. Meus focos atuais de expansão técnica são:
 
 - [x] Cloud Computing com AWS
-- [/] **Infraestrutura e Banco de Dados Oracle**(https://shields.io)
+- [/] **Infraestrutura e Banco de Dados Oracle** ![Oracle](https://shields.io)
 - [ ] Padrões de Projeto (Design Patterns) e Princípios SOLID
 - [ ] Testes automatizados (Unitários e de Integração com JUnit e Mockito)
 - [ ] Mensageria e Eventos (Apache Kafka / RabbitMQ)
